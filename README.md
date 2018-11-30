@@ -1,6 +1,7 @@
 # AzurLane St. Louis Splendor of Spring
 
 Character Model of AzurLane St. Louis 'Splendor of Spring' Costume
+
 Created in Metaseqouia and rigged in Cinema 4D
 
 Topology and layout of this model has referenced SPS式
