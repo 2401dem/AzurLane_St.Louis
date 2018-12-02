@@ -8,7 +8,7 @@ Topology and layout of this model has referenced SPS式
 
 ## License
 
-Copyright (C) 2018 DEM(Twitter@DEM_Works)
+Copyright (C) 2018 DEM(Twitter@DEM_Works) exmachina343@outlook.com
 
 This Model is free Creation: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
